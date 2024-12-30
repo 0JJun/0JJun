@@ -19,7 +19,7 @@
 **데이터 분석:** Pandas, Matplotlib  
 
 # 📚 주요 연구 프로젝트
-## - 감정 음성 합성 연구
+## 감정 음성 합성 연구
 
 * 연구 분야: Variational Autoencoder 및 Diffusion Model을 활용한 감정 음성 합성  
 * 사용 기술: Python, PyTorch  
@@ -34,7 +34,7 @@
   
 
 
-## - 비명 소리 검출 시스템
+## 비명 소리 검출 시스템
 
 * 연구 분야: Windowing CNN 기반 오디오 이벤트 검출  
 * 사용 기술: Python, TensorFlow, Librosa  
@@ -49,7 +49,7 @@
 
 
 
-## - 음원 유사도 분석  
+## 음원 유사도 분석  
 
 * 연구 분야: Graph Neural Network를 이용한 음원 유사도 측정  
 * 사용 기술: Python, PyTorch Geometric, NetworkX  
