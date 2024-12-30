@@ -52,7 +52,7 @@ Ph.D. Student - Sangmyung University, Audio/Speech AI
 # Audio Similarity Analysis  
 
 **Research Area:** Audio Similarity Measurement using Graph Neural Networks  
-**Technologies:** Python, PyTorch Geometric, NetworkX  
+**Technologies:** Python, PyTorch
 **Research Details:**  
 
 * Proposed novel representation method converting time-frequency characteristics into graph structures  
