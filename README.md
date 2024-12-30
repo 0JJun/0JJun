@@ -19,9 +19,10 @@ Ph.D. Student - Sangmyung University, Audio/Speech AI
 **Data Analysis:** Pandas, Matplotlib    
 
 # 📚 Research Projects  
-**Emotional Speech Synthesis** - Controllable emotional speech synthesis using Variational Autoencoder and Diffusion Model
-**Scream Detection System** - Real-time audio event detection using Windowing CNN architecture
-**Audio Similarity Analysis** - Music similarity measurement framework using Graph Neural Networks
+**Emotional Speech Synthesis** - Controllable emotional speech synthesis using Variational Autoencoder and Diffusion Model  
+**Scream Detection System** - Real-time audio event detection using Windowing CNN architecture  
+**Audio Similarity Analysis** - Music similarity measurement framework using Graph Neural Networks  
+**Sound Event Dectection** - Audio event detection and classification using deep learning approaches  
 
 
 📫 Contact  
