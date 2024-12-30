@@ -41,7 +41,6 @@ Ph.D. Student - Sangmyung University, Audio/Speech AI
 **Research Details:**  
 
 * Designed efficient window-based CNN architecture for real-time processing  
-* Developed hybrid feature extraction method combining Mel-spectrogram and MFCC  
 * Applied data augmentation techniques for robust detection in various noise environments  
 * Implemented lightweight model enabling real-time detection with low latency  
 * Validated and optimized performance in real CCTV environments  
