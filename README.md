@@ -7,7 +7,6 @@
 박사과정 - 상명대학교, 음성/음향 인공지능 전공
 
 # 🛠 기술 스택
-**주요 언어**
 ![image](https://github.com/user-attachments/assets/db580c00-c238-4cd9-8aa0-2a502394ecff)
 ![image](https://github.com/user-attachments/assets/6384d5bb-58bf-42c4-914a-810adadb9d03)
 ![image](https://github.com/user-attachments/assets/232e2281-e756-46fc-9741-ed44847bdc4f)
